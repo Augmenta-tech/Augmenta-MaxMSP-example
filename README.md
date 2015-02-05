@@ -2,5 +2,5 @@
 [Max][] / MSP objects and examples for Augmenta
 
 
-[Unity]: http://http://unity3d.com/
+[Max]: https://cycling74.com/
 [Théoriz studio]: http://www.theoriz.com/
