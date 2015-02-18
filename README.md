@@ -1,5 +1,5 @@
 # AugmentaMax
-[Max][] objects and examples patchs for Augmenta
+[Max][] objects and example patchs for Augmenta
 
 Install
 -------
