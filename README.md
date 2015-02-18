@@ -33,7 +33,8 @@ Check [TODO](TODO.md) and [TOFIX](TOFIX.md)
 Thanks
 ------
 
-Thanks to the devs and beta testers whose contribution are vitals to the project
+Thanks to the devs and beta testers whose contribution are vitals to the project :
+
   Clément-Marie Mathieu / David-Alexandre Chanel / you !
 
 [Max]: https://cycling74.com/
