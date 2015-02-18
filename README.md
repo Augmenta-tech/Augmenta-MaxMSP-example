@@ -1,17 +1,27 @@
 # AugmentaMax
-[Max][] / MSP objects and examples for Augmenta
+[Max][] objects and examples patchs for Augmenta
 
 Install
 -------
 
-Get [Max][] and start the provided patch !
+Download the files here :
+
+https://github.com/Theoriz/Augmenta4Max.git/master.zip
+
+or
+
+```
+git clone https://github.com/Theoriz/Augmenta4Max.git
+```
+
+Then, get [Max][] and start the provided patch !
 
 Examples
 --------
 
 ### Receiver example
 
-Receive and print Augmenta data
+Receives and prints Augmenta data
 
 
 Contribute
