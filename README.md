@@ -30,9 +30,9 @@ Data
 ```
     * Augmenta OSC Protocol :
 
-        /au/personWillLeave/ args0 arg1 ... argn
-        /au/personUpdated/   args0 arg1 ... argn
-        /au/personEntered/   args0 arg1 ... argn
+        /au/personWillLeave args0 arg1 ... argn
+        /au/personUpdated   args0 arg1 ... argn
+        /au/personEntered   args0 arg1 ... argn
 
         where args are :
 
@@ -53,7 +53,7 @@ Data
         13: highest.y (float)
         14: highest.z (float)               // Height
 
-        /au/scene/   args0 arg1 ... argn
+        /au/scene   args0 arg1 ... argn
 
         0: currentTime (int)                // Time (in frame number)
         1: percentCovered (float)           // Percent covered
