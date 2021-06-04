@@ -1,4 +1,4 @@
-# Augmenta4Max
+# Augmenta Max MSP example
 
 [Max][] examples patchs for Augmenta
 
@@ -7,7 +7,7 @@ Install
 
 Download the files here :
 
-https://github.com/Theoriz/Augmenta-MaxMSP-example.git/master.zip
+https://github.com/Theoriz/Augmenta-MaxMSP-example/archive/refs/heads/master.zip
 
 or
 
