@@ -1,18 +1,18 @@
 # Augmenta4Max
 
-[Max][] objects and example patchs for Augmenta
+[Max][] examples patchs for Augmenta
 
 Install
 -------
 
 Download the files here :
 
-https://github.com/Theoriz/Augmenta4Max.git/master.zip
+https://github.com/Theoriz/Augmenta-MaxMSP-example.git/master.zip
 
 or
 
 ```
-git clone https://github.com/Theoriz/Augmenta4Max.git
+git clone https://github.com/Theoriz/Augmenta-MaxMSP-example.git
 ```
 
 Then, get [Max][] and start the provided patch !
@@ -20,26 +20,14 @@ Then, get [Max][] and start the provided patch !
 Examples
 --------
 
-### Receiver example
+### Simple example
 
-Receives and prints Augmenta data
-
-Documentation
--------------
-
-https://github.com/Theoriz/Augmenta/wiki
-
-Contribute
-----------
-
-Check [TODO](TODO.md) and [TOFIX](TOFIX.md)
+Receives and draws Augmenta data, plus a simple interface
 
 Thanks
 ------
 
-Thanks to the devs and beta testers whose contribution are vitals to the project :
-
-  Clément-Marie Mathieu / David-Alexandre Chanel / you !
+Romain Constant / Clément-Marie Mathieu / David-Alexandre Chanel / you !
 
 [Max]: https://cycling74.com/
 [Théoriz studio]: http://www.theoriz.com/
